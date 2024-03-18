@@ -420,32 +420,43 @@ small {
 
 .projects h2 {
   text-align: center;
-  margin-top: 16px;
+  margin-bottom: 16px;
   padding: 16px;
   border-bottom: 1px solid #f5f6f7;
 }
 
-.projects p {
-  margin-top: 8px;
+.projects h3 {
+  margin-bottom: 20px;
 }
 
-.project1 {
-  padding: 16px;
+.projects p {
   margin-top: 16px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+
+#project0 {
+  margin-bottom: 40px;
+  padding: 16px;
   box-sizing: border-box;
 }
 
-.project1 h3 {
-  padding: 16px;
-  margin-top: 16px;
+#project0 p {
+  margin: 16px;
 }
 
-.project1 img {
+#project1 {
+  padding: 16px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+#project1 img {
   display: inline-box;
   opacity: 0.7;
 }
 
-.project1 p {
+#project1 p {
   margin: 16px;
 }
 
